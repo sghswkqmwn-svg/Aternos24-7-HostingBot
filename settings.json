@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "UNKNOWN",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "enderforgesmps2.mcsh.gg",
     "port": 25565,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -18,9 +18,9 @@
     "z": 0
   },
   "utils": {
-    "auto-auth": {
+    "autwhaltermco-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "whaltermc"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "I'm a pvper player",
+        "I hate to play meau!"
       ]
     },
     "chat-log": true,
@@ -82,6 +82,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YourMinecraftUsername"]
+    "tpWhitelist": ["LoyalLP"]
   }
 }
